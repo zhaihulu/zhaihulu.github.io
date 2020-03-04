@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhaihulu.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-03-04T08:44:29.126Z</updated>
+    <title>Data Science</title>
+    <updated>2020-03-04T07:48:42.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhaihulu.github.io/"/>
     <link rel="self" href="https://zhaihulu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>翟葫芦的个人网站</subtitle>
     <logo>https://zhaihulu.github.io/images/avatar.png</logo>
     <icon>https://zhaihulu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Data Science</rights>
+    <entry>
+        <title type="html"><![CDATA[作业1参考答案]]></title>
+        <id>https://zhaihulu.github.io/post/zuo-ye-1-can-kao-da-an/</id>
+        <link href="https://zhaihulu.github.io/post/zuo-ye-1-can-kao-da-an/">
+        </link>
+        <updated>2020-03-04T06:23:26.000Z</updated>
+        <content type="html"><![CDATA[<p>作业1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhaihulu.github.io/post/hello-gridea/</id>
         <link href="https://zhaihulu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<!-- more -->
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
